@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a448b603-e020-4c67-943f-7295701b0f2a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b5QKEIf8D2ucg6sH2tBmLJK7EU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Study/3rd_course/Тестирования/lab_1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MatrixTest">
+    <configuration name="MatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_2_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatrixTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTest.ioTestFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_2_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="ioTestFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTest.multIOMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_2_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="multIOMatrix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTest.subIOMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_2_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="subIOMatrix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixTest.sumIOMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab_2_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MatrixTest" />
+      <option name="METHOD_NAME" value="sumIOMatrix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MatrixTest" />
+        <item itemvalue="JUnit.MatrixTest.subIOMatrix" />
+        <item itemvalue="JUnit.MatrixTest.sumIOMatrix" />
+        <item itemvalue="JUnit.MatrixTest.multIOMatrix" />
+        <item itemvalue="JUnit.MatrixTest.ioTestFail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a448b603-e020-4c67-943f-7295701b0f2a" name="Default Changelist" comment="" />
+      <created>1587919408815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587919408815</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Project_Structure" timestamp="1587919437946">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1587919437946" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1588014710288">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588014710288" />
+    <state width="1323" height="473" key="GridCell.Tab.0.bottom" timestamp="1588015227563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588015227563" />
+    <state width="1323" height="473" key="GridCell.Tab.0.center" timestamp="1588015227562">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588015227562" />
+    <state width="1323" height="473" key="GridCell.Tab.0.left" timestamp="1588015227561">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588015227561" />
+    <state width="1323" height="473" key="GridCell.Tab.0.right" timestamp="1588015227563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="473" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588015227563" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1587924722493">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587924722493" />
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1587980524240">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587980524240" />
+    <state x="454" y="86" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587919627838">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="454" y="86" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1587919627838" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587920699083">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587920699083" />
+  </component>
+</project>
