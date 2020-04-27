@@ -1,13 +1,12 @@
+
 language: java
-os: linux
-dish: bionic
+sudo: false # faster builds
 
-jdk: openjdk8
-jobs:
-  include:
-    - stage: testing
-      script:
-        - mvn verify
+jdk:
+  - openjdk11
+  - openjdk8
 
-notifications:
-  email: false
+script:
+  - mvn clean package
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
