@@ -123,8 +123,6 @@ class MatrixTest {
 
         assertEquals(true, m.checkEqual(expected, actual));
     }
-
-    
     static Stream<Arguments> parametrizedMatrices() {
         return Stream.of(
                 arguments(m.createRandMatrix(2, 2), m.createRandMatrix(2, 2)),
